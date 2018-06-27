@@ -1,6 +1,8 @@
 # CrappyBird
 A Flappy Bird clone made using Swing Graphics. 
 
+![alt text](Screenshot.png "Screenshot of Crappy Bird running on Ubuntu 16.04")
+
 # Why?
 A classmate asked me if we could, theoretically, clone Flappy Bird in Java. 10 minutes later, I was showing him how. This is the result. Later, we were given an assignment by one of the teachers in which we had the liberty to build and showcase just about anything. I submitted this shit in order to save time. 
 

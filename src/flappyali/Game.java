@@ -234,7 +234,8 @@ public class Game extends JPanel implements Runnable {
         } else {
             g2d.fillOval(x, y, PLAYER_SIZE, PLAYER_SIZE);
         }
-        
+        this.setBackground(Color.CYAN);
+        g2d.setColor(Color.GREEN);
         g2d.fillRect(x11, 0, PWIDTH, h11);
         g2d.fillRect(x11, h11 + diff, PWIDTH, SHEIGHT - h11 - diff);
         g2d.fillRect(x11 + PSEPARATION, 0, PWIDTH, h12);
